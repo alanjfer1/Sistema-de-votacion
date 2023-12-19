@@ -1,0 +1,3 @@
+Se trata de crear un sistema completo de votación que se encarga de la asignación de turnos de votación a las personas, la creación de las mesas, la asignación de los presidentes a las mismas, de la votación, y de controlar todo tipo de fallas que puedan surgir.
+
+El sistema va a tener 4 mesas distintas a la cuál asignar a las personas. Una mesa exclusiva para trabajadores, otra para personas con enfermedades complicadas, otra más para personas mayores y luego un mesa general para el resto. 
